@@ -34,10 +34,9 @@ foi criado devido á escassez de conteúdo em português. Esse projeto se baseia
 
 ## ROADMAP
 
-### Introdução (INCOMPLETE)
+### Introdução
 
 1. [Boas-vindas](https://github.com/arturbruno17/kotlin4noobs/blob/main/1-Introdu%C3%A7%C3%A3o/1-Boas-vindas.md)
-
 2. [Comunicação](https://github.com/arturbruno17/kotlin4noobs/blob/main/1-Introdu%C3%A7%C3%A3o/2-Comunicação.md)
 
 ### Configuração de ambiente (INCOMPLETE)
@@ -47,7 +46,6 @@ foi criado devido á escassez de conteúdo em português. Esse projeto se baseia
 ### Módulo de POO (INCOMPLETE)
 
 ### Library functions (INCOMPLETE)
-  
   
 <!-- CONTRIBUTING -->
 
