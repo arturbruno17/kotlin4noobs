@@ -23,10 +23,10 @@
     <a href="https://github.com/arturbruno17/kotlin4noobs/issues">Request Feature</a>
   </p>
 </p>
-    
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
+
 Esse é um guia de estudos para quem quer se aventurar pela linguagem Kotlin. Aqui você vai encontrar os mais diversos conteúdos, indo desde variáveis até POO. Esse projeto
 foi criado devido á escassez de conteúdo em português. Esse projeto se baseia no curso da coursera, [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers?), juntamente com algumas anotações que fiz durante meu processo de aprendizado e, claro, a contribuição de vocês. :)
 
@@ -36,12 +36,16 @@ foi criado devido á escassez de conteúdo em português. Esse projeto se baseia
 
 ### Introdução (INCOMPLETE)
 
-[1. Boas-vindas](https://github.com/arturbruno17/kotlin4noobs/blob/main/1-Introdu%C3%A7%C3%A3o/1-Boas-vindas.md)
-[2. Comunicação](https://github.com/arturbruno17/kotlin4noobs/blob/main/1-Introdu%C3%A7%C3%A3o/2-Comunicação.md)
+1. [Boas-vindas](https://github.com/arturbruno17/kotlin4noobs/blob/main/1-Introdu%C3%A7%C3%A3o/1-Boas-vindas.md)
+
+2. [Comunicação](https://github.com/arturbruno17/kotlin4noobs/blob/main/1-Introdu%C3%A7%C3%A3o/2-Comunicação.md)
 
 ### Configuração de ambiente (INCOMPLETE)
+
 ### Módulo básico (INCOMPLETE)
+
 ### Módulo de POO (INCOMPLETE)
+
 ### Library functions (INCOMPLETE)
   
   
